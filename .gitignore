@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Go
+hermes
+*.exe
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
