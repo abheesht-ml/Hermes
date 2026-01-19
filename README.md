@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermes_Ingenui_%28Vatican%29.jpg/220px-Hermes_Ingenui_%28Vatican%29.jpg" alt="Hermes" width="120"/>
-</p>
+
 
 <h1 align="center">Hermes</h1>
 
